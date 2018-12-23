@@ -50,7 +50,7 @@ convener9:
   image: convener9.jpg
   fblink: https://www.facebook.com/kartik.patekar?fref=ts
 convener10:
-  name: Keshav Janyani
+  name: Keshav Malpani
   image: convener10.jpg
   fblink: https://www.facebook.com/kjanyani?fref=ts
 convener11:
